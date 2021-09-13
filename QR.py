@@ -5,7 +5,7 @@ import webbrowser
 import simpleaudio 
 from pyzbar import pyzbar
 
-# Function to read QR code
+# Function to read the QR code
 def read_QR(frame):
     x, y, w, h = 0, 0, 0, 0
     QR_info = None
