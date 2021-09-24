@@ -4,5 +4,5 @@ Run this file in the commandline as
 + python3 QR.py 
 ```
 It will open your camera and will detect the QR codes shown in the frame. <br/>
-It will play an audio "QR code detected" once a QR code is detected. <br/>
+It will play an audio "QR code detected" once a QR code is detected. <br/> 
 It will also redirect you to the address hidden in the QR code.
